@@ -1,0 +1,5 @@
+-lib hxnodejs
+-lib tink_core
+-cp src
+-main Main
+-js index.js
